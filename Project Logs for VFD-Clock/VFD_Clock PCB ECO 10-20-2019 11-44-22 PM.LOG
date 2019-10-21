@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=SW2-1
+Added Pin To Net: NetName=NetR15_2 Pin=SW2-3
+Added Pin To Net: NetName=NetR15_2 Pin=U1-9
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=SW3-1
+Added Pin To Net: NetName=NetR16_2 Pin=SW3-3
+Added Pin To Net: NetName=NetR16_2 Pin=U1-53
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=SW4-1
+Added Pin To Net: NetName=NetR17_2 Pin=SW4-3
+Added Pin To Net: NetName=NetR17_2 Pin=U1-11
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=MCU Member=Component R14 10k
+Added Member To Class: ClassName=MCU Member=Component R15 10k
+Added Member To Class: ClassName=MCU Member=Component R17 10k
+Added Member To Class: ClassName=MCU Member=Component SW2 -BUTTON
+Added Member To Class: ClassName=MCU Member=Component SW3 DATE BUTTON
+Added Member To Class: ClassName=MCU Member=Component SW4 TEMPERATURE BUTTON

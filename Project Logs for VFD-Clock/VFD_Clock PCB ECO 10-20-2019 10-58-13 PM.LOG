@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=HOURS1 NewDesignator=TUBE1
+Change Component Designator: OldDesignator=HOURS2 NewDesignator=TUBE2
+Change Component Designator: OldDesignator=MINS1 NewDesignator=TUBE3
+Change Component Designator: OldDesignator=MINS2 NewDesignator=TUBE4
+Change Component Designator: OldDesignator=SECONDS1 NewDesignator=TUBE5
+Change Component Designator: OldDesignator=SECONDS2 NewDesignator=TUBE6
+Added Component: Designator=SW1(434331045822)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/434331045822.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "434331045822"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "434331045822"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component SW1 434331045822

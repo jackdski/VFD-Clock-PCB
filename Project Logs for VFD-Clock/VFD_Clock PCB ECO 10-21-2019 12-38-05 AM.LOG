@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=MCU_VDD Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+1V65V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Member From Class: ClassName=Power Member=C11
+Removed Member From Class: ClassName=Power Member=C12
+Added Component: Designator=C?(PNSC-FP-V-D_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø6.3x5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1184.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "0.26O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 6.6 x 6.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FP-V-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PNSC-FP-V-D_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "47µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø6.3x5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1184.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "0.26O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 6.6 x 6.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FP-V-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "300mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+1V65V Pin=C?-1
+Added Pin To Net: NetName=MCU_VDD Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=Power Member=Component C? 47uF
+Added Member To Class: ClassName=Power Member=Component C? 47uF
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU
+Added Room: Name=Tubes 1-3
+Added Room: Name=Tubes4-6

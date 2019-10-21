@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ABS07-120-32.768KHZ-T.LibPkg
+
+Section : C:\Users\jackd\Downloads\ABS07-120-32.768KHZ-T\ABS07-120-32.768KHZ-T.lia
+    Section : PCB Library - ABS07-120-32.768KHZ-T.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ABS07-120-32.768KHZ-T On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 165
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ABS07-120-32.768KHZ-T.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - ABS07-120-32.768KHZ-T.SchLib
+        EndSection
+    EndSection
+EndSection

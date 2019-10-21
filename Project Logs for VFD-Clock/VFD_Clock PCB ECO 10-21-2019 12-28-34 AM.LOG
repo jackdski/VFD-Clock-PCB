@@ -1,0 +1,8 @@
+Change Component Description : Designator=U7 Old Description= New Description=TUBE1
+Change Component Description : Designator=U9 Old Description= New Description=TUBE2
+Change Component Description : Designator=U11 Old Description= New Description=TUBE3
+Change Component Description : Designator=U13 Old Description= New Description=TUBE4
+Change Component Description : Designator=U15 Old Description= New Description=TUBE5
+Change Component Description : Designator=U17 Old Description= New Description=TUBE6
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU

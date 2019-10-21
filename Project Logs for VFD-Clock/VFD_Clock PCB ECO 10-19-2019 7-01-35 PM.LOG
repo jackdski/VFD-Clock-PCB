@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=PWR_5V Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=STM-SMC_V New Footprint=VISH-DO-214AC-2_M
+Change Component Comment : Designator=D1 Old Comment=SMCJ5.0A-TR New Comment=SMAJ5.0A-E3/61
+Change component parameters: Designator = "D1"; Footprint = "VISH-DO-214AC-2_M"; UniqueID = "\LKYZOPSV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/88390/smaj50a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.vishay.com/docs/88390/smaj50a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "12/8/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID (uA)"; Value = "800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IFSM"; Value = "40 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Junction and Storage Temperature Range"; Value = "-55 to 150 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin DO-214AC (SMA), Body 4.245 x 2.665 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SMAJ5.0A-E3/61"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PPPM (W)"; Value = "400, 300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VBR Uni-Directional (V)"; Value = "6.4 to 231"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VWM (V)"; Value = "5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_5V Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
