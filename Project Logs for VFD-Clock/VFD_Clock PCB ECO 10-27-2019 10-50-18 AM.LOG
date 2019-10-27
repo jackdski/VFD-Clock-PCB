@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetR17_2 Pin=U1-11
+Change Component Comment : Designator=J1 Old Comment=5V IN New Comment=RAPC712X
+Added Pin To Net: NetName=GND Pin=JTAG-6
+Added Pin To Net: NetName=NetR17_2 Pin=U1-50
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Tubes 1-3
+Added Room: Name=Tubes4-6

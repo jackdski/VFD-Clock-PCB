@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=J1-1
+Added Pin To Net: NetName=+5V Pin=R9-2
+Added Pin To Net: NetName=+5V Pin=U5-3
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Tubes 1-3
+Added Room: Name=Tubes4-6
