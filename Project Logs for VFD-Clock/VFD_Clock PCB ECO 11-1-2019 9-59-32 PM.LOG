@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=Power Member=Component R19 464R
+Added Member To Class: ClassName=Tubes 1-3 Member=Component TUBE2 VFD-IV-11
+Added Member To Class: ClassName=Tubes4-6 Member=Component TUBE4 VFD-IV-11
+Added Member To Class: ClassName=Power Member=Component U6 TLV1117LV33DCYR
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Tubes 1-3
+Added Room: Name=Tubes4-6

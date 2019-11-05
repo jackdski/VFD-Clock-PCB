@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=TUBE1 NewDesignator=?
+Change Net Name : Old Net Name=NetTUBE1_3 New Net Name=Net?_3
+Change Net Name : Old Net Name=NetTUBE1_4 New Net Name=Net?_4
+Change Net Name : Old Net Name=NetTUBE1_5 New Net Name=Net?_5
+Change Net Name : Old Net Name=NetTUBE1_6 New Net Name=Net?_6
+Change Net Name : Old Net Name=NetTUBE1_7 New Net Name=Net?_7
+Change Net Name : Old Net Name=NetTUBE1_8 New Net Name=Net?_8
+Change Net Name : Old Net Name=NetTUBE1_9 New Net Name=Net?_9
+Change Net Name : Old Net Name=NetTUBE1_10 New Net Name=Net?_10
+Added Room: Name=BLE_Sensors_LEDs
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Tubes 1-3
+Added Room: Name=Tubes4-6
